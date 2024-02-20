@@ -1,0 +1,28 @@
+AccountNumber,AnnualRevenue,BillingAddress.city,BillingAddress.country,BillingAddress.postalCode,BillingAddress.state,BillingAddress.street,BillingAddress.latitude,BillingAddress.longitude,Description,Industry,NaicsCode,NaicsDesc,Name,NumberOfEmployees,NumberofLocations__c,Phone,ShippingAddress.city,ShippingAddress.country,ShippingAddress.countryCode,ShippingAddress.geocodeAccuracy,ShippingAddress.postalCode,ShippingAddress.state,ShippingAddress.stateCode,ShippingAddress.street,ShippingAddress.latitude,ShippingAddress.longitude,Sic,TickerSymbol,Type,Website,YearStarted
+CD451796,1.39E8,Austin,,,TX,"312 Constitution Place
+Austin, TX 78767
+USA",0,0,"Edge, founded in 1998, is a start-up based in Austin, TX. The company designs and manufactures a device to convert music from one digital format to another. Edge sells its product through retailers and its own website.",Electronics,,,Edge Communications,1000,2.0,(512) 757-6000,,,,,,,,"312 Constitution Place
+Austin, TX 78767
+USA",0,0,6576,EDGE,Customer - Direct,http://edgecomm.com,1990
+CD656092,3.5E8,Burlington,USA,27215,NC,525 S. Lexington Ave,0,0,,Apparel,,,Burlington Textiles Corp of America,9000,6.0,(336) 222-7000,,,,,,,,,,,546732,BTXT,Customer - Direct,www.burlington.com,2001
+CC213425,9.5E8,Paris,France,75251,,2 Place Jussieu,0,0,,Construction,,,Pyramid Construction Inc.,2680,17.0,(014) 427-4427,Paris,France,,,75251,,,2 Place Jussieu,0,0,4253,PYR,Customer - Channel,www.pyramid.com,1984
+CC634267,5.0E7,Lawrence,USA,66045,KS,1301 Hoch Drive,0,0,,Consulting,,,Dickenson plc,120,2.0,(785) 241-6200,Lawrence,USA,,,66045,KS,,1301 Hoch Drive,0,0,6752,,Customer - Channel,dickenson-consulting.com,1967
+CD439877,5.0E8,Chicago,,,IL,"2334 N. Michigan Avenue, Suite 1500
+Chicago, IL 60601, USA",0,0,"Chain of hotels and resorts across the US, UK, Eastern Europe, Japan, and SE Asia.",Hospitality,,,Grand Hotels & Resorts Ltd,5600,57.0,(312) 596-1000,,,,,,,,"2334 N. Michigan Avenue, Suite 1500
+Chicago, IL 60601, USA",0,0,2268,GHTL,Customer - Direct,www.grandhotels.com,2015
+3263827,2.2E7,New York,United States,10044,NY,490 Main Street,0,0,,Other,,,Acme,680,,(212) 154-6450,New York,United States,,,10044,NY,,490 Main Street,0,0,,,Customer - Direct,www.acme.com,2003
+CC978213,3.0E7,Mountain View,,,CA,"345 Shoreline Park
+Mountain View, CA 94043
+USA",0,0,Genomics company engaged in mapping and sequencing of the human genome and developing gene-based drugs,Biotechnology,,,GenePoint,265,1.0,(650) 867-3450,,,,,,,,"345 Shoreline Park
+Mountain View, CA 94043
+USA",0,0,3712,,Customer - Channel,www.genepoint.com,1975
+CC947211,9.5E8,Portland,,,OR,"620 SW 5th Avenue Suite 400
+Portland, Oregon 97204
+United States",0,0,Commerical logistics and transportation company.,Transportation,,,Express Logistics and Transport,12300,150.0,(503) 421-7800,,,,,,,,"620 SW 5th Avenue Suite 400
+Portland, Oregon 97204
+United States",0,0,8742,EXLT,Customer - Channel,www.expressl&t.net,1984
+CD355118,5.6E9,New York,,,NY,"1301 Avenue of the Americas 
+New York, NY 10019
+USA",0,0,World's third largest oil and gas company.,Energy,,,United Oil & Gas Corp.,145000,955.0,(212) 842-5500,,,,,,,,"1301 Avenue of the Americas 
+New York, NY 10019
+USA",0,0,4437,UOS,Customer - Direct,http://www.uos.com,2011
